@@ -13,7 +13,7 @@ The dataset used in this analysis is included in the `real_estate_dataset.csv` f
 ## Getting Started
 
 1. Install the required Python libraries:
-2. 3. Run the Jupyter Notebook or Python script to perform the analysis.
+2. Run the Jupyter Notebook or Python script to perform the analysis.
 
 ## Analysis
 
@@ -37,5 +37,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Happy Analyzing using Data Science Techniques! 🏡✨
-[Muhammad Anus], [anus.afzal@live.com], and [muan6743]
+Happy Analyzation using Data Science Techniques! 🏡✨
+[Muhammad Anus], [anus.afzal@live.com], [muan6743]
